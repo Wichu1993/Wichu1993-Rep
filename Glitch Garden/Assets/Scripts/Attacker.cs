@@ -12,7 +12,7 @@ public class Attacker : MonoBehaviour {
         Rigidbody2D myRigibody = gameObject.AddComponent<Rigidbody2D>();
         myRigibody.isKinematic = true;
         animator = GetComponent<Animator>();
-       
+       //test
 	}
 	
 	void Update () {
