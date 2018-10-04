@@ -5,7 +5,7 @@ using System.Collections.Generic;
 public class Control : MonoBehaviour{
 
     public int speed;
-    //fdgdgdfgdfgdfgghdfgdffdgdfgdf
+    //fdgdgdfgdfgdfgghdfgdffdgdfgdfgfhfghfghfghghfhfghfgh
     bool life;
 
 void Start(){
